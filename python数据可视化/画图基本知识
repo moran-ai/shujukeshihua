@@ -1,0 +1,11 @@
+1.导入相关库
+import numpy as np
+from matplotlib import pyplot as plt
+
+2.设置画布
+plt.figure(figsize=(高，宽))
+
+3.创建子图
+plt.subplt(行，列，子图名称)
+plt.subplt(行，列，子图名称)
+
